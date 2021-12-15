@@ -1,2 +1,2 @@
 # lyricsinger
-Sings lyrics for you.
+Sings song lyrics for you in Roblox.
